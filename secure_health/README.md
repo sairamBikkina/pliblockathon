@@ -1,5 +1,6 @@
 ### watch the Project Demo by clicking on the below video
-[![Watch the video](https://youtu.be/cdM5Ehaoz54)
+https://youtu.be/cdM5Ehaoz54
+
 ### Install the  following applications in your system
  1. Ganache
  2. Metamak (chrome extension)
